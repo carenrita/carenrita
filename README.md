@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @carenrita
-- 👀 I’m interested in k-music & dramas
-- 🌱 I’m currently learning computing in soft dev
+hewwo
 
 <!---
 carenrita/carenrita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
